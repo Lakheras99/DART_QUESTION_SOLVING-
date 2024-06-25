@@ -1,0 +1,25 @@
+Create an array of integers and print the first and last elements.
+Write a function that takes an array of integers and returns the sum of all elements.
+Create an array of strings and print the length of each string.
+Write a function that takes an array of integers and returns the maximum value.
+Create an array of booleans and print the number of true values.
+Write a function that takes an array of integers and returns a new array with only the even numbers.
+Create an array of doubles and print the average of all elements.
+Write a function that takes an array of strings and returns a new array with all strings in uppercase.
+Create an array of integers and print the second largest value.
+Write a function that takes an array of integers and returns the number of unique values.
+Create an array of strings and print the longest string.
+Write a function that takes an array of integers and returns a new array with the elements in reverse order.
+Create an array of booleans and print the index of the first true value.
+Write a function that takes an array of integers and returns the median value.
+Create an array of strings and print the number of elements that start with a vowel.
+Write a function that takes an array of integers and returns a new array with the elements sorted in ascending order.
+Create an array of doubles and print the sum of the squares of all elements.
+Write a function that takes an array of strings and returns a new array with the strings sorted in alphabetical order.
+Create an array of integers and print the number of elements that are divisible by 3.
+Write a function that takes an array of integers and returns a new array with the elements shifted one position to the left (the first element becomes the last element).
+Create an array of booleans and print the number of false values.
+Write a function that takes an array of integers and returns a new array with the elements shifted one position to the right (the last element becomes the first element).
+Create an array of strings and print the number of elements that contain the letter 'a'.
+Write a function that takes an array of integers and returns a new array with the elements sorted in descending order.
+Create an array of doubles and print the product of all elements.
